@@ -6,8 +6,9 @@ const Navegacion = () => {
     <div className="nav-bg">
         <nav className="navegacion-principal contenedor">
           <Link to="/">Inicio</Link>
-          <Link to="productos">Lista de Productos</Link>
           <Link to="contactos">Contactanos</Link>
+          <Link to="productos">Lista de Productos</Link>
+          
         </nav>
     </div>
   )
