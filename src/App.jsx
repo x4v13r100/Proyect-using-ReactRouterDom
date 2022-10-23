@@ -11,6 +11,10 @@ import Layout from './Layout/Layout';
 import Main from './Pages/Main';
 import Vite from './Pages/Vite';
 
+//Styles
+import './assets/css/normalize.css';
+import './assets/css/styles.css';
+
 
 function App() {
   
